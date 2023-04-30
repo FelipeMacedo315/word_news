@@ -41,8 +41,7 @@ Veja o projeto em produção clicando aqui > [Site de noticias ](https://noticia
 
  <img width=50 height=50 src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 
-<img width=50 height=50 src='https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png
-'/>
+<img width=50 height=50 src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"/>
 
 <img width=50 height=50 src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
 
